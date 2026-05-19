@@ -1,0 +1,20 @@
+services:
+  ads-ai:
+    build: .
+    container_name: meta-ads-ai
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    # Compose auto-loads ./.env for ${...} substitution below if it exists.
+    # If it doesn't exist, the container still starts and the dashboard runs
+    # with Claude offline (heuristic fallbacks). Set ANTHROPIC_API_KEY to enable AI.
+    environment:
+      ANTHROPIC_API_KEY: ${ANTHROPIC_API_KEY:-}
+      CLAUDE_MODEL: ${CLAUDE_MODEL:-claude-sonnet-4-6}
+      USD_TO_INR: ${USD_TO_INR:-83.0}
+    volumes:
+      # Persistent storage for SQLite memory across restarts
+      - ads-data:/app/data
+
+volumes:
+  ads-data:

@@ -1,0 +1,36 @@
+Day,Campaign Name,Ad Set Name,Ad Name,Amount Spent (USD),Impressions,Link Clicks,Messaging Conversations Started,Purchases,Purchase Conversion Value,Currency
+2026-04-01,Spring Promo,Lookalike 1%,Carousel A,120.50,18430,412,38,12,1485.00,USD
+2026-04-01,Spring Promo,Lookalike 1%,Video B,98.40,15220,289,24,8,920.00,USD
+2026-04-01,Spring Promo,Interest - Yoga,Static C,76.20,9840,201,16,5,612.00,USD
+2026-04-01,Brand Awareness,Broad,Video D,210.00,42100,640,12,3,360.00,USD
+2026-04-01,Retargeting 30d,Visitors,Carousel E,54.30,5210,189,29,18,2250.00,USD
+2026-04-02,Spring Promo,Lookalike 1%,Carousel A,118.00,17980,398,41,14,1720.00,USD
+2026-04-02,Spring Promo,Lookalike 1%,Video B,102.00,15640,295,22,7,805.00,USD
+2026-04-02,Spring Promo,Interest - Yoga,Static C,80.10,10120,212,15,4,500.00,USD
+2026-04-02,Brand Awareness,Broad,Video D,225.00,44320,672,15,2,240.00,USD
+2026-04-02,Retargeting 30d,Visitors,Carousel E,58.40,5640,201,32,21,2620.00,USD
+2026-04-03,Spring Promo,Lookalike 1%,Carousel A,135.00,19100,431,44,15,1840.00,USD
+2026-04-03,Spring Promo,Lookalike 1%,Video B,99.00,15330,278,21,6,720.00,USD
+2026-04-03,Spring Promo,Interest - Yoga,Static C,82.30,10210,219,17,5,610.00,USD
+2026-04-03,Brand Awareness,Broad,Video D,240.00,45810,704,14,2,250.00,USD
+2026-04-03,Retargeting 30d,Visitors,Carousel E,61.20,5840,211,34,22,2740.00,USD
+2026-04-04,Spring Promo,Lookalike 1%,Carousel A,140.00,19650,440,42,13,1610.00,USD
+2026-04-04,Spring Promo,Lookalike 1%,Video B,105.00,16110,302,20,5,605.00,USD
+2026-04-04,Spring Promo,Interest - Yoga,Static C,84.00,10310,225,18,6,725.00,USD
+2026-04-04,Brand Awareness,Broad,Video D,258.00,47210,728,16,3,375.00,USD
+2026-04-04,Retargeting 30d,Visitors,Carousel E,63.00,6020,221,36,24,2980.00,USD
+2026-04-05,Spring Promo,Lookalike 1%,Carousel A,142.00,19880,448,45,16,1980.00,USD
+2026-04-05,Spring Promo,Lookalike 1%,Video B,108.00,16320,310,19,4,490.00,USD
+2026-04-05,Spring Promo,Interest - Yoga,Static C,86.00,10410,228,17,5,620.00,USD
+2026-04-05,Brand Awareness,Broad,Video D,265.00,47820,742,15,2,250.00,USD
+2026-04-05,Retargeting 30d,Visitors,Carousel E,65.10,6210,228,38,25,3120.00,USD
+2026-04-06,Spring Promo,Lookalike 1%,Carousel A,144.00,20020,452,47,17,2100.00,USD
+2026-04-06,Spring Promo,Lookalike 1%,Video B,110.00,16450,318,18,3,365.00,USD
+2026-04-06,Spring Promo,Interest - Yoga,Static C,88.00,10510,234,16,4,495.00,USD
+2026-04-06,Brand Awareness,Broad,Video D,272.00,48100,755,13,2,250.00,USD
+2026-04-06,Retargeting 30d,Visitors,Carousel E,67.00,6310,235,40,27,3380.00,USD
+2026-04-07,Spring Promo,Lookalike 1%,Carousel A,146.00,20210,461,49,18,2230.00,USD
+2026-04-07,Spring Promo,Lookalike 1%,Video B,112.00,16580,322,16,3,370.00,USD
+2026-04-07,Spring Promo,Interest - Yoga,Static C,90.00,10620,238,15,4,500.00,USD
+2026-04-07,Brand Awareness,Broad,Video D,280.00,48420,768,14,2,255.00,USD
+2026-04-07,Retargeting 30d,Visitors,Carousel E,69.00,6420,242,42,28,3520.00,USD

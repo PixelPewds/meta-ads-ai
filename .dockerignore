@@ -1,0 +1,11 @@
+__pycache__
+*.pyc
+.venv/
+data/
+.env
+sample_data/
+.git/
+.gitignore
+README.md
+inspect_export.py
+*.md
