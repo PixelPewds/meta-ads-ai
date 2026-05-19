@@ -17,9 +17,6 @@ RUN pip install -r requirements.txt
 COPY backend/ ./backend/
 COPY frontend/ ./frontend/
 
-# Persistent SQLite + uploads volume
-VOLUME ["/app/data"]
-
 EXPOSE 8000
 
 HEALTHCHECK --interval=30s --timeout=5s --start-period=5s \
